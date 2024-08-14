@@ -22,6 +22,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Layout/SavedReports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcU2F2ZWRSZXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Pages/Weather.razor]
@@ -45,6 +53,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Layout/HeaderBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcSGVhZGVyQmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-d72bdil1y7
 
 [C:/Users/hp/LIBRARY/03_hobbies/Class C\# work/ClassProject/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
