@@ -1,0 +1,24 @@
+<nav class="flex flex-col space-y-3 p-2 w-fit">
+    <p class="text-center text-xl font-light font-mono border-b-2 border-b-black">Saved Reports</p>
+    @foreach (var item in navItems) {
+        <div class="flex space-x-2 hover:text-blue-500 transition-all cursor-pointer">
+            <img src="@item.ImageUrl" alt="@item.Title" class="w-[1em]"/>
+            <span class="w-fit font-extralight">@item.Title</span>
+        </div>
+    }
+</nav>
+
+@code{
+    public class NavItem{
+        public string ImageUrl { get; set; }
+        public string Title { get; set; }
+    }
+    List<NavItem> navItems = new List<NavItem>{
+        new NavItem {ImageUrl = "/images/order.png", Title="Current month"},
+        new NavItem {ImageUrl = "/images/order.png", Title="Last quater"},
+        new NavItem {ImageUrl = "/images/order.png", Title="Social engagement"},
+        new NavItem {ImageUrl = "/images/order.png", Title="Year-end sale"}
+    };
+
+
+}
